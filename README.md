@@ -41,9 +41,11 @@ task-cli.py list done
 task-cli.py list todo
 task-cli.py list in-progress
 
+# url of project
+https://github.com/pammi1307/task-tracker-cli
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./License) file for details.
-
 
 
