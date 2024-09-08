@@ -43,7 +43,11 @@ task-cli.py list in-progress
 
 ## Project URL
 
-You can view the project on GitHub at [project URL](https://github.com/pammi1307/task-tracker-cli)
+You can view the project on GitHub at [project URL](https://github.com/pammi1307/task-tracker-cli).
+
+## Project Roadmap
+
+For details on the project roadmap and future plans, visit [Task Tracker Roadmap](https://roadmap.sh/projects/task-tracker).
 
 
 ## License
