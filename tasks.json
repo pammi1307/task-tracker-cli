@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2024-09-07T23:23:28.277899",
+        "updatedAt": null
+    }
+]
