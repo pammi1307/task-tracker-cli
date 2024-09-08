@@ -41,8 +41,10 @@ task-cli.py list done
 task-cli.py list todo
 task-cli.py list in-progress
 
-# url of project
-https://github.com/pammi1307/task-tracker-cli
+## Project URL
+
+You can view the project on GitHub at [Task Tracker CLI](https://github.com/pammi1307/task-tracker-cli).
+
 
 ## License
 
